@@ -1,0 +1,2 @@
+# Global-repo
+global product
